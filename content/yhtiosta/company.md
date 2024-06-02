@@ -4,26 +4,24 @@ date = 2024-06-01T18:44:06+03:00
 draft = true
 +++
 
-Proefit Oy
+# Proefit Oy
 
-Y-tunnus: 
+## Yhteystiedot
 
-Käyntiosoite: Mikkeli
+- Y-tunnus: 
+- Käyntiosoite: Mikkeli
+- Jukka Tervo [jukka@proefit.fi](mailto:jukka@proefit.fi?subject=Yhteydenenotto%20kotisivuilta)
+- Puhelin [+358123123](tel:+358123123)
 
-Jukka Tervo (jukka@proefit.fi)
+<!--more-->
 
+## Yhtiön hallitus
 
-Yhtiön hallitus
----
-
-Jukka Tervo - <jukka@proefit.fi>
-
-
-Yhteystiedot
----
+- Puheenjohtaja: Jukka Tervo - <jukka@proefit.fi>
 
 
-Laskutus
----
-Sähköpostilla - <talous@proefit.fi>
+
+## Laskutus
+
+Sähköpostilaskutus - <talous@proefit.fi>
 
