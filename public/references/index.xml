@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>References on Proefit Oy</title>
+    <link>http://localhost:1313/references/</link>
+    <description>Recent content in References on Proefit Oy</description>
+    <generator>Hugo</generator>
+    <language>fi</language>
+    <lastBuildDate>Sat, 01 Jun 2024 19:24:26 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/references/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Referenssit</title>
+      <link>http://localhost:1313/references/references/</link>
+      <pubDate>Sat, 01 Jun 2024 19:24:26 +0300</pubDate>
+      <guid>http://localhost:1313/references/references/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

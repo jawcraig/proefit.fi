@@ -1,0 +1,47 @@
+html {
+  --background: white;
+  --text: #222;
+  --nav-background: #99E;
+}
+
+body {
+  color: var(--text);
+
+  font-family: sans-serif;
+  line-height: 1.5;
+
+  margin: 1rem;
+  max-width: 768px;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+  color: red;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+  font-size: 0.5em;
+  color: gray;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+ul {
+  color: red;
+  background: var(--nav-background);
+  display: flex;
+  flex-direction: row;
+  color: white;
+
+  & li {
+    list-style: none;
+    margin-left: 1rem;
+    font-weight: bold;
+  }
+}

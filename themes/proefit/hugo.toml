@@ -1,0 +1,28 @@
+baseURL = 'https://proefit.fi/'
+languageCode = 'fi'
+title = 'Proefit.fi'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Palvelut'
+pageRef = '/palvelut'
+weight = 20
+
+[[menus.main]]
+name = 'Referenssit'
+pageRef = '/referenssit'
+weight = 20
+
+[[menus.main]]
+name = 'Yhtiöstä'
+pageRef = '/yhtiosta'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
