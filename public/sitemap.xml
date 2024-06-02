@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://jawcraig.github.io/proefit.fi/public/palvelut/</loc><lastmod>2024-06-01T19:24:33+03:00</lastmod></url><url><loc>https://jawcraig.github.io/proefit.fi/public/referenssit/</loc><lastmod>2024-06-01T19:24:26+03:00</lastmod></url><url><loc>https://jawcraig.github.io/proefit.fi/public/yhtiosta/</loc><lastmod>2024-06-01T18:44:06+03:00</lastmod></url><url><loc>https://jawcraig.github.io/proefit.fi/public/</loc><lastmod>2023-01-01T08:00:00-07:00</lastmod></url><url><loc>https://jawcraig.github.io/proefit.fi/public/categories/</loc></url><url><loc>https://jawcraig.github.io/proefit.fi/public/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/proefit.fi/public/palvelut/</loc>
+    <lastmod>2024-06-01T19:24:33+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/palvelut/main/</loc>
+    <lastmod>2024-06-01T19:24:33+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/referenssit/projekti1/</loc>
+    <lastmod>2024-06-01T19:24:26+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/referenssit/referenssit/</loc>
+    <lastmod>2024-06-01T19:24:26+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/referenssit/</loc>
+    <lastmod>2024-06-01T19:24:26+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/yhtiosta/</loc>
+    <lastmod>2024-06-01T18:44:06+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/yhtiosta/company/</loc>
+    <lastmod>2024-06-01T18:44:06+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/proefit.fi/public/tags/</loc>
+  </url>
+</urlset>
